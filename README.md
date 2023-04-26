@@ -22,7 +22,7 @@ This project would need data from car sensors, such as battery capacity, power u
 
 ## Challenges
 
-One of the problems of this research is that the accuracy of range forecast may be altered by factors such as geography, driving style, and battery age. Furthermore, the availability and quality of external data sources may vary based on the vehicle's location.
+One of the problems of this research is that the accuracy of range prediction may be altered by factors such as geography, driving style, and battery age... Furthermore, the availability and quality of external data sources may vary based on the vehicle's location.
 
 
 ## Acknowledgments
