@@ -24,11 +24,11 @@ This project would need data from car sensors, such as battery capacity, power u
 
 One of the problems of this research is that the accuracy of range prediction may be altered by factors such as geography, driving style, and battery age... Furthermore, the availability and quality of external data sources may vary based on the vehicle's location.
 
-## What next?
-
-While the goal of this certification course is to produce a creative concept, I am eager to push my project beyond the limits of this course and continue its growth. As an electromechanical engineering student, I acknowledge that I still have a lot to learn, but I am excited to take on this challenge and gain the skills and knowledge needed to see my idea through to execution.
-
 ## Acknowledgments
 
 There are several instances of range prediction systems available, such as the Tesla range calculator. 
 The AI algorithms might be implemented using open-source technologies such as TensorFlow and Keras.
+
+## What next?
+
+While the goal of this certification course is to produce a creative concept, I am eager to push my project beyond the limits of this course and continue its growth. As an electromechanical engineering student, I acknowledge that I still have a lot to learn, but I am excited to take on this challenge and gain the skills and knowledge needed to see my idea through to execution.
