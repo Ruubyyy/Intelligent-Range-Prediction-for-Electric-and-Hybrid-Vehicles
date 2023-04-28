@@ -1,34 +1,13 @@
-# Intelligent-Range-Prediction-for-Electric-and-Hybrid-Vehicles
-Intelligent Range Prediction for Electric and Hybrid Cars - PROJECT IDEA
- 
-## Summary
+# SENSAI
 
-As a student of electromechanical engineering, I am particularly interested in the intersection of mechanical engineering and artificial intelligence, two fields that have always fascinated me, particularly in addressing the growing concern among electric and hybrid vehicle users about the range of their vehicles on a single charge. My project concept is to employ artificial intelligence techniques to predict the driving range of electric and hybrid vehicles based on real-time data, allowing drivers to make informed decisions about when and where to recharge their vehicles.
+   For the past few years, machine monitoring and diagnostics have become effective tools for early detection of failures and tracking their evolution over time. Continuous vibration monitoring has many advantages for companies that use industrial equipment or machinery:
+- It allows for quick detection of problems and correction before they become serious, which can prevent costly production shutdowns and reduce equipment downtime.
+- It helps improve equipment reliability and lifespan by identifying potential problems and correcting them before they cause damage.
 
+   As a student in electromechanical engineering, I am particularly interested in the intersection of mechanical engineering, electrical engineering, and artificial intelligence; fields that have always fascinated me. My project idea is to employ artificial intelligence techniques to predict when and where maintenance should take place by detecting early signs of wear or machine failure to plan maintenance interventions before a breakdown occurs.
+   
+   Traditionally, this monitoring is done using vibration sensors to measure machine vibration characteristics. Vibration data is then manually analyzed or analyzed using pre-programmed algorithms to detect anomalies and defects. However, this project will use advanced sensors that allow for real-time processing and combine them with artificial intelligence. 
+   Using machine learning, the AI model will become capable of detecting defects on its own before they occur. The AI algorithm will be based on a theoretical study using historical data and comparing it to current data to determine the possibility of anomalies in the near future.
+   
+####  - This project is already underway, with the theoretical part already completed, and now the adventure of applying this AI solution will begin.
 
-## Background
-
-One important issue confronting the automobile industry is the restricted driving range of electric and hybrid vehicles on a single charge. Range anxiety, or the worry of being stuck without a nearby charging station, might deter drivers from utilizing these vehicles for longer trips or in places with inadequate charging infrastructure.
-
-
-## How is it used?
-
-Drivers of electric and hybrid vehicles would use the technology, which would provide real-time range estimations via an app or dashboard display. This approach might also be connected with existing navigation systems to recommend charging stations based on projected range.
-
-
-## Data sources and AI methods
-
-This project would need data from car sensors, such as battery capacity, power usage, and driving behavior, as well as data from other sources, such as weather predictions and traffic conditions. The AI program would assess this data and anticipate the vehicle's range using machine learning and predictive analytics approaches. 
-
-## Challenges
-
-One of the problems of this research is that the accuracy of range prediction may be altered by factors such as geography, driving style, and battery age... Furthermore, the availability and quality of external data sources may vary based on the vehicle's location.
-
-## Acknowledgments
-
-There are several instances of range prediction systems available, such as the Tesla range calculator. 
-The AI algorithms might be implemented using open-source technologies such as TensorFlow and Keras.
-
-## What next?
-
-While the goal of this certification course is to produce a creative concept, I am eager to push my project beyond the limits of this course and continue its growth. As an electromechanical engineering student, I acknowledge that I still have a lot to learn, but I am excited to take on this challenge and gain the skills and knowledge needed to see my idea through to execution.
