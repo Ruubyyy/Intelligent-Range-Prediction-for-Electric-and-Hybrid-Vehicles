@@ -1,5 +1,7 @@
 # SENSAI
 
+## Summary
+
    For the past few years, machine monitoring and diagnostics have become effective tools for early detection of failures and tracking their evolution over time. Continuous vibration monitoring has many advantages for companies that use industrial equipment or machinery:
 - It allows for quick detection of problems and correction before they become serious, which can prevent costly production shutdowns and reduce equipment downtime.
 - It helps improve equipment reliability and lifespan by identifying potential problems and correcting them before they cause damage.
