@@ -1,5 +1,5 @@
 # SENSAI
-
+Building AI course project
 ## Summary
 
    For the past few years, machine monitoring and diagnostics have become effective tools for early detection of failures and tracking their evolution over time. Continuous vibration monitoring has many advantages for companies that use industrial equipment or machinery:
